@@ -35,6 +35,7 @@ let emotes = {
 	'xaa': 'http://i.imgur.com/V728AvL.png',
 	'yayface': 'http://i.imgur.com/anY1jf8.png',
 	'yesface': 'http://i.imgur.com/k9YCF6K.png',
+	'feelspix': 'http://i.imgur.com/YIOKlWT.png'
 };
 
 let emotesKeys = Object.keys(emotes);
