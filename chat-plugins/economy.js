@@ -4,7 +4,6 @@ let fs = require('fs');
 let path = require('path');
 
 let shop = [
-	['Ticket', 'Lottery ticket for a chance to be a Millionaire.', 5],
 	['Symbol', 'Place a Custom Symbol in front of your name (Temporary until restart, auth symbols are blocked).', 5],
 	['Fix', 'Obtain the ability to alter your current custom avatar or trainer card or room name.', 10],
 	['Avatar', 'Tired of the standard avatars? Get a custom one! (You supply, preferably 80x80)', 20],
