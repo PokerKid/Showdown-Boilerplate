@@ -21,7 +21,7 @@ exports.commands = {
 	alt: 'whois',
 	alts: 'whois',
 	whoare: 'whois',
-	whois: function (tagrget, room, user, connection, cmd) {
+	whois: function (target, room, user, connection, cmd) {
 		if (room.id === 'staff' && !this.canBroadcast()) return;
 		let targetUser = this.targetUserOrSelf(target, user.group === ' ');
 		if (!targetUser) {
