@@ -121,7 +121,7 @@ exports.commands = {
 		if (!this.can('pmall')) return false;
 		if (!target) return this.parse('/help pmall');
 
-		let pmName = ' Server PM [Do not reply]';
+		let pmName = '★Paradox PM';
 
 		Users.users.forEach(function (user) {
 			let message = '|pm|' + pmName + '|' + user.getIdentity() + '|' + target;
@@ -136,7 +136,7 @@ exports.commands = {
 		if (!this.can('forcewin')) return false;
 		if (!target) return this.parse('/help pmallstaff');
 
-		let pmName = ' Staff PM [Do not reply]';
+		let pmName = '★Paradox Staff PM';
 
 		Users.users.forEach(function (user) {
 			if (!user.isStaff) return;
