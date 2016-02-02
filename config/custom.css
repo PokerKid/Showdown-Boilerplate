@@ -23,7 +23,7 @@ body {
 }
 
 .header {
-	background: rgba(255, 255, 255, 0.3) url(http://i.imgur.com/iiylUqi.png) no-repeat !important;
+	background: url(http://i.imgur.com/iiylUqi.png) no-repeat !important;
 }
 
 .maintabbarbottom {
@@ -118,13 +118,13 @@ body {
 ***********/
 
 .userlist {
-	background: #00FFFF;
+	background: #9B3BEB;
 	border-color: #1e93ea;
 	color: #4d4d4d;
 }
 
 .userlist li {
-	background: rgba(0,255,255,0.2);
+	background: rgba(155,59,235,0.2);
 	border-color: #FFFFFF;
 }
 
