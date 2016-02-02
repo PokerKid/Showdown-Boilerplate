@@ -137,13 +137,13 @@ body {
 }
 
 .infobox {
-	border-color: #000000;
+	border-color: #FFFFFF;
 	box-shadow: 0px 0px 0px 3px rgba(0,0,0,0.3);
 }
 
 .chat-log {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
-	background: rgba(227,244,252,0.3) url(http://i.imgur.com/TbdYPbP.png) top right no-repeat !important;
+	background: url(http://i.imgur.com/PlZJbVg.png) !important;
 }
 
 .chat.highlighted {
@@ -396,17 +396,17 @@ body {
 }
   
 .mainmenufooter a {
-    	color: #82F589;
+    	color: #82F5EA;
     	text-shadow: none;
 }
   
 .mainmenufooter a:hover {
-    	color: #5BFC73;
+    	color: #A13DFF;
     	text-shadow: none;
 }
   
 .mainmenufooter {
-    	color: #82F589;
+    	color: #82F5EA;
     	text-shadow: none;
 }
 
