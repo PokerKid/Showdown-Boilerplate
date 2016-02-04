@@ -27,20 +27,20 @@ body {
 }
 
 .maintabbarbottom {
-	border-color: #3DDBE3;	
-	background: #9DF5F0;
+	border-color: #E33DDB;	
+	background: #9B3BEB;
 }
 
 .tabbar a.button.notifying {
-	background: #A7FFF0;
+	background: #9B3BEB;
 	border-color: #5b95ff;
-	color: #7A32D9;
+	color: #A7FFF0;
 	text-shadow: none;
 	font-style: italic;
 }
   
 .button.subtle-notifying {
-    	color: #7A32D9;
+    	color: #5b95ff;
 }
 
 .tabbar a.button.notifying:hover {
@@ -58,8 +58,8 @@ body {
   
 .tabbar a.button {
     	border-color: #5b95ff;
-    	background: #9EFFFB;
-    	color: #7A32D9;
+    	background: #9B3BEB;
+    	color: #5BFFE3;
     	text-shadow: none;
 }
   
@@ -68,7 +68,7 @@ body {
 }
   
 .tabbar .closebutton {
-    	color: #A13DFF;
+    	color: #5BFFE3;
 }
   
 .userbar button.icon {
@@ -120,11 +120,11 @@ body {
 .userlist {
 	background: #9B3BEB;
 	border-color: #1e93ea;
-	color: #4d4d4d;
+	color: #000000;
 }
 
 .userlist li {
-	background: rgba(155,59,235,0.2);
+	background: rgba(0,255,255,0.2);
 	border-color: #FFFFFF;
 }
 
@@ -156,7 +156,7 @@ body {
 
 .chat-log-add {
     	border-color: #1e93ea;
-   	background: rgba(95,236,229,0.25);
+   	background: rgba(227,91,255,0.25);
 }
 
 .chat-log-add .textbox {
